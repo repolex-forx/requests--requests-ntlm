@@ -1,0 +1,11 @@
+{
+  "org": "requests",
+  "repo": "requests-ntlm",
+  "versions": [
+    {
+      "commit": "717339ff800830e60fbd62294cb3033ee9a04a66",
+      "tag": "v1.3.0",
+      "parsed_at": "2026-10-12T05:22:18.126626+00:00"
+    }
+  ]
+}
